@@ -2,3 +2,11 @@ img {
     width: 150px;
     height: 150px;
 }
+
+#inputmovie {
+    margin-left : 40px;
+}
+
+p {
+    display:none;
+}
